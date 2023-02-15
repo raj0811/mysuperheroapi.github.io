@@ -1,1 +1,1 @@
-# mysuperheroapi.github.io
+# superhero-API.github.io
